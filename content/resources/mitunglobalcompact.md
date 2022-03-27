@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: af499cd4-5233-70bf-ed87-fcba1d200ac5
 resourcetype: Document
 title: mitunglobalcompact.pdf
 uid: 98cbfa10-8c2f-c177-a413-6d64b8a980d9

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: d2f51c0b-e52c-3f5c-3557-2a1ab930368c
 resourcetype: Document
 title: pdf2mission.pdf
 uid: 348f532d-b1d4-74be-ae9f-2a60e23ad32f

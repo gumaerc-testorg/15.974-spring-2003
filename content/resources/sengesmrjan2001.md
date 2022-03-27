@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: d2f51c0b-e52c-3f5c-3557-2a1ab930368c
 resourcetype: Document
 title: sengesmrjan2001.pdf
 uid: 8894b320-889c-c456-fddc-bf55a9692fce

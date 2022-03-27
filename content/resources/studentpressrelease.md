@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: af499cd4-5233-70bf-ed87-fcba1d200ac5
 resourcetype: Document
 title: studentpressrelease.pdf
 uid: 76f66387-4c27-d9c9-38d9-978fb34823c6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: af499cd4-5233-70bf-ed87-fcba1d200ac5
 resourcetype: Document
 title: csrleadershipdialogue.pdf
 uid: 98c13b4b-002f-3241-5e41-9f14ce442f7c

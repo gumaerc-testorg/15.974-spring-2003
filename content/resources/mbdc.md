@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 76da2f7e-29c5-e38f-aeab-9cf0e18b3723
 resourcetype: Document
 title: mbdc.pdf
 uid: beb407c0-2e55-f0ff-2d69-a084e6f62fe1
