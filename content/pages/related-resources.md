@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Bibliography and links page.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -111,7 +112,7 @@ Schlumberger, SEED [www.slb.com/seed](http://www.slb.com/seed)
   
 UN Global Compact: [www.unglobalcompact.org](http://www.unglobalcompact.org/)  
   
-([PDF 1]({{< baseurl >}}/resources/pdf1brochure)): Brochure ([PDF 2]({{< baseurl >}}/resources/pdf2mission)): Mission ([PDF 3]({{< baseurl >}}/resources/pdf3primer)): Primer
+({{% resource_link efdf4448-7be9-360b-bf56-8acb50254ab9 "PDF 1" %}}): Brochure ({{% resource_link 348f532d-b1d4-74be-ae9f-2a60e23ad32f "PDF 2" %}}): Mission ({{% resource_link 0831caea-ed7b-dc17-eb07-da1e7b2af39d "PDF 3" %}}): Primer
 {{< tdclose >}}
 
 {{< trclose >}}

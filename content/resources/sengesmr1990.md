@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-974-leadership-lab-spring-2003/dd7aaaf4f3665c84ca8210876d6d4779_sengesmr1990.pdf
+file: /courses/15-974-leadership-lab-spring-2003/dd7aaaf4f3665c84ca8210876d6d4779_sengesmr1990.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

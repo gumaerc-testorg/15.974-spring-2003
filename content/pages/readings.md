@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: 7cf9e3fe-9aae-a6d3-5a61-2ce92f78f94a
 ---
 
-Download a copy of the bibliography listed below ([PDF]({{< baseurl >}}/resources/readingsnew)).
+Download a copy of the bibliography listed below ({{% resource_link 5a6a2a27-0e2c-da59-d736-1bad26f905ae "PDF" %}}).
 
 Arthur, W. Brian. "Conversation with W. Brian Arthur: Coming from Your Inner Self." 2001.
 
