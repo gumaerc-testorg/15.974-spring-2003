@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 76da2f7e-29c5-e38f-aeab-9cf0e18b3723
 ---
@@ -28,7 +32,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecturenotes1))
+({{% resource_link d788ac6d-550d-e1e5-8c1b-3f67a0659a89 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Introduction
 Precise Observation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecturenotes2))
+({{% resource_link 93fe3cab-d472-4cdd-ccd6-fedaa9f6b3c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +56,7 @@ Precise Observation
 Sensing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecturenotes3))
+({{% resource_link 6ebc23e3-a377-e301-7f85-55bfab1608ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,9 +68,9 @@ Sensing
 Sense-making
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecturenotes4))  
+({{% resource_link df33ee04-8bd1-4fa1-1277-c6f0264dd94e "PDF" %}})  
   
-([PDF]({{< baseurl >}}/resources/mbdc)) (MDBC)
+({{% resource_link beb407c0-2e55-f0ff-2d69-a084e6f62fe1 "PDF" %}}) (MDBC)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Sense-making
 Crystallizing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecturenotes5))
+({{% resource_link 4e03ab61-9b09-5b7d-7f71-ed159197f424 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +94,7 @@ Crystallizing
 Prototyping
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecturenotes6))
+({{% resource_link 2faa9bd5-83e3-0b16-ef3c-81809cb6da00 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +106,7 @@ Prototyping
 Presenting
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecturenotes7))
+({{% resource_link b39ad3a4-9c0e-3272-26de-3f743ecd70d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
