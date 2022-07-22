@@ -5,6 +5,7 @@ file: /courses/15-974-leadership-lab-spring-2003/0f9cdd8f372b311a737bc48eb3a088f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment1.pdf
 uid: 0f9cdd8f-372b-311a-737b-c48eb3a088f7
 ---
 Company Visits
-

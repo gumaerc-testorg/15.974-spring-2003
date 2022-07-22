@@ -5,6 +5,7 @@ file: /courses/15-974-leadership-lab-spring-2003/f30b47c56d6fc5dfe725cfe8284404e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment3.pdf
 uid: f30b47c5-6d6f-c5df-e725-cfe8284404e2
 ---
 Team Prototype Project
-

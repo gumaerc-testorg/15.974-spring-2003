@@ -4,6 +4,7 @@ description: 'How The Global Compact Works: Mission, Actors And Engagement Mecha
 file: /courses/15-974-leadership-lab-spring-2003/348f532db1d474beae9f2a60e23ad32f_pdf2mission.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: pdf2mission.pdf
 uid: 348f532d-b1d4-74be-ae9f-2a60e23ad32f
 ---
 How The Global Compact Works: Mission, Actors And Engagement Mechanisms
-

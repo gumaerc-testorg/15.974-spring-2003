@@ -5,6 +5,7 @@ file: /courses/15-974-leadership-lab-spring-2003/4e03ab619b095b7d7f71ed159197f42
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecturenotes5.pdf
 uid: 4e03ab61-9b09-5b7d-7f71-ed159197f424
 ---
 Crystallizing Vision and Intention
-

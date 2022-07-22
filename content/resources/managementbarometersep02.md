@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-974-leadership-lab-spring-2003/de46681d422fff91ffc3f533ae32a638_managementbarometersep02.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection

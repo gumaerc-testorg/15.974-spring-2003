@@ -5,6 +5,7 @@ file: /courses/15-974-leadership-lab-spring-2003/2faa9bd583e30b16ef3c81809cb6da0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecturenotes6.pdf
 uid: 2faa9bd5-83e3-0b16-ef3c-81809cb6da00
 ---
 Prototyping Living Examples
-
