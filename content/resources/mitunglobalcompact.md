@@ -28,4 +28,3 @@ video_metadata:
   youtube_id: ''
 ---
 MIT Leadership Lab UNGC Legacy Write-up
-
