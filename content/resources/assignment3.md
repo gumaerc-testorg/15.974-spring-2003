@@ -2,6 +2,7 @@
 content_type: resource
 description: Team Prototype Project
 file: /courses/15-974-leadership-lab-spring-2003/f30b47c56d6fc5dfe725cfe8284404e2_assignment3.pdf
+file_size: 37699
 file_type: application/pdf
 learning_resource_types:
 - Assignments

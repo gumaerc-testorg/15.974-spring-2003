@@ -2,6 +2,7 @@
 content_type: resource
 description: Crystallizing Vision and Intention
 file: /courses/15-974-leadership-lab-spring-2003/4e03ab619b095b7d7f71ed159197f424_lecturenotes5.pdf
+file_size: 196862
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
