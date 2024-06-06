@@ -2,6 +2,7 @@
 content_type: resource
 description: Prototyping Living Examples
 file: /courses/15-974-leadership-lab-spring-2003/2faa9bd583e30b16ef3c81809cb6da00_lecturenotes6.pdf
+file_size: 205071
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

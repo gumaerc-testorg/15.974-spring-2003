@@ -25,16 +25,16 @@ This five-day leadership workshop focuses on how leaders lead innovations that g
 
 ### Lead Faculty
 
-{{% resource_link "f52af46a-672e-40dd-a9c0-deaa6bb66a48" "Claus Otto Scharmer" %}}, MIT
+[Claus Otto Scharmer](http://www.ottoscharmer.com/bio/), MIT
 
 ### Guest Faculty
 
-{{% resource_link "4c1a26b7-bff7-4ee4-b8bc-bd3cc2fb674f" "Peter Senge" %}}, MIT  
-{{% resource_link "10f3818b-9e63-460f-aa7f-343af5f6ebc3" "Eric Saperstein" %}}, IDEO  
-{{% resource_link "be5ba83a-d658-45d5-bf6e-57e6a8b9f143" "Simone Crook" %}}, Schlumberger SEED  
-{{% resource_link "a313f6bd-983d-4111-bcfd-b47c2a0c60aa" "Joseph Rinkevich" %}}, McDonough Braungart DesignChemistry, LLC  
-{{% resource_link "2babd75a-b09d-401b-96bd-a2252a6c220e" "Joseph Jaworski" %}}, Global Institute for ResponsibleLeadership  
-{{% resource_link "3f9efac4-8cdd-45d6-be73-d07583f38331" "Jeremy Hockenstein" %}}, DigitalDivideData
+[Peter Senge](http://mitsloan.mit.edu/faculty/detail.php?in_spseqno=41415), MIT  
+[Eric Saperstein](http://www.ideo.com/), IDEO  
+[Simone Crook](http://www.seed.slb.com/), Schlumberger SEED  
+[Joseph Rinkevich](http://www.mbdc.com/), McDonough Braungart DesignChemistry, LLC  
+[Joseph Jaworski](https://worldbusiness.org/fellows/joseph-jaworski/), Global Institute for ResponsibleLeadership  
+[Jeremy Hockenstein](http://www.digitaldividedata.org/), DigitalDivideData
 
 ### Company Visit Partners:
 
@@ -168,11 +168,11 @@ The Lab includes a full day in the Boston studio of IDEO, the design company. Th
 
 On the following Friday, the class splits into small teams of five or fewer to spend a day inside one of the following organizations and companies:
 
-Ben & Jerry's, Burlington, VT, {{% resource_link "744c3edc-b38d-41fa-9dee-99aeaba0d4b0" "www.benjerry.com" %}}  
-KLD Socially ResponsibleInvesting, Boston, {{% resource_link "8d5a7160-04ba-49db-8d49-4cdbc4fc9f1a" "www.kld.com" %}}  
-McDonough Braungart Design Chemistry, Charlottesville, VA, {{% resource_link "29bdbb40-ab30-4eb9-bca0-4e9279249e49" "www.mbdc.com" %}}  
-Plug Power, Latham, NY, {{% resource_link "db2d1ab3-7d5f-45c7-9fe9-65846b0ffb8e" "http://www.plugpower.com/Home.aspx" %}}  
-PwC, New York, NY, {{% resource_link "f9bfc318-00ad-407a-8eab-68960d27ad3d" "www.pwc.com/sustainability" %}}  
-UN Global Compact, New York, NY, {{% resource_link "bfddb11c-7089-4375-857f-3b5646451a3b" "www.unglobalcompact.org" %}}  
-Schlumberger, SEED, New York, NY, {{% resource_link "b5fef5a2-0551-4edd-8d89-289ebebbec6e" "www.slb.com/seed" %}}  
-Walden Asset Management, Boston, MA, {{% resource_link "e3f832a0-85e5-4273-a4df-74549dd41cd8" "www.waldenassetmgmt.com" %}}
+Ben & Jerry's, Burlington, VT, [www.benjerry.com](http://www.benjerry.com)  
+KLD Socially ResponsibleInvesting, Boston, [www.kld.com](http://www.kld.com)  
+McDonough Braungart Design Chemistry, Charlottesville, VA, [www.mbdc.com](http://www.mbdc.com)  
+Plug Power, Latham, NY, [http://www.plugpower.com/Home.aspx](https://www.plugpower.com/)  
+PwC, New York, NY, [www.pwc.com/sustainability](http://www.pwc.com/sustainability)  
+UN Global Compact, New York, NY, [www.unglobalcompact.org](http://www.unglobalcompact.org)  
+Schlumberger, SEED, New York, NY, [www.slb.com/seed](http://www.slb.com/seed)  
+Walden Asset Management, Boston, MA, [www.waldenassetmgmt.com](http://www.waldenassetmgmt.com)

@@ -2,6 +2,7 @@
 content_type: resource
 description: Company Visits
 file: /courses/15-974-leadership-lab-spring-2003/0f9cdd8f372b311a737bc48eb3a088f7_assignment1.pdf
+file_size: 93674
 file_type: application/pdf
 learning_resource_types:
 - Assignments
