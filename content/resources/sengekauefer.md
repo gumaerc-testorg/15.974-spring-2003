@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-974-leadership-lab-spring-2003/c930c1225692f104a362425ef8dacd42_sengekauefer.pdf
+file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/c930c1225692f104a362425ef8dacd42_sengekauefer.pdf
 file_size: 306631
 file_type: application/pdf
 learning_resource_types: []
