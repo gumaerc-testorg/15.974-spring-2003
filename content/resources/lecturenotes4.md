@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sense-making
-file: /courses/15-974-leadership-lab-spring-2003/df33ee048bd14fa11277c6f0264dd94e_lecturenotes4.pdf
+file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/df33ee048bd14fa11277c6f0264dd94e_lecturenotes4.pdf
 file_size: 182231
 file_type: application/pdf
 learning_resource_types:
