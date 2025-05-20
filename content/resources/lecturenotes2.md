@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Seeing and Sensing: The Art and Practice of Precise Observation'
-file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/93fe3cabd4724cddccd6fedaa9f6b3c0_lecturenotes2.pdf
+file: /courses/15-974-leadership-lab-spring-2003/93fe3cabd4724cddccd6fedaa9f6b3c0_lecturenotes2.pdf
 file_size: 254575
 file_type: application/pdf
 learning_resource_types:
