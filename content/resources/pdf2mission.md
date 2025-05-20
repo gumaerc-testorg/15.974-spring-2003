@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'How The Global Compact Works: Mission, Actors And Engagement Mechanisms'
-file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/348f532db1d474beae9f2a60e23ad32f_pdf2mission.pdf
+file: /courses/15-974-leadership-lab-spring-2003/348f532db1d474beae9f2a60e23ad32f_pdf2mission.pdf
 file_size: 162856
 file_type: application/pdf
 learning_resource_types: []
