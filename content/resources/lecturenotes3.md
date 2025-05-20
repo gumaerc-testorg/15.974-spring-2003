@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Go on Learning Journeys
-file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/6ebc23e3a377e3017f8555bfab1608ce_lecturenotes3.pdf
+file: /courses/15-974-leadership-lab-spring-2003/6ebc23e3a377e3017f8555bfab1608ce_lecturenotes3.pdf
 file_size: 225263
 file_type: application/pdf
 learning_resource_types:

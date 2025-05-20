@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introduction
-file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/d788ac6d550de1e58c1b3f67a0659a89_lecturenotes1.pdf
+file: /courses/15-974-leadership-lab-spring-2003/d788ac6d550de1e58c1b3f67a0659a89_lecturenotes1.pdf
 file_size: 219349
 file_type: application/pdf
 learning_resource_types:
