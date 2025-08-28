@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Personal Reflection Paper
-file: /courses/15-974-leadership-lab-spring-2003/bb9d2dc7c876b3cb68eb1c0e5cae80fb_assignment4.pdf
+file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/bb9d2dc7c876b3cb68eb1c0e5cae80fb_assignment4.pdf
 file_size: 39771
 file_type: application/pdf
 learning_resource_types:

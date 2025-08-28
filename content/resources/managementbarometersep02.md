@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-974-leadership-lab-spring-2003/de46681d422fff91ffc3f533ae32a638_managementbarometersep02.pdf
+file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/de46681d422fff91ffc3f533ae32a638_managementbarometersep02.pdf
 file_size: 225946
 file_type: application/pdf
 learning_resource_types: []

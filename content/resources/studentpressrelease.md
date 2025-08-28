@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Press Release: Corporate Leadership and Social Responsibility Alive
   at Sloan'
-file: /courses/15-974-leadership-lab-spring-2003/76f663874c27d9c938d9978fb34823c6_studentpressrelease.pdf
+file: /ol-ocw-studio-app/courses/15-974-leadership-lab-spring-2003/76f663874c27d9c938d9978fb34823c6_studentpressrelease.pdf
 file_size: 66978
 file_type: application/pdf
 learning_resource_types:
